@@ -1,0 +1,7 @@
+{
+  "name": "Danesh Boom Middleware",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "node-rest-client": "^3.1.0"
+  }
+}
